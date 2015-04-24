@@ -1,2 +1,2 @@
 # graduatedesign
-just some text for first edition
+just some tests for first edition
